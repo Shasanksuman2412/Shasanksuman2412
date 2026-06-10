@@ -87,6 +87,8 @@
 
 <hr/>
 
+![](https://github.com/Shasanksuman2412/Shasanksuman2412/blob/main/profile-3d-contrib/profile-night-view.svg)
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
@@ -110,12 +112,6 @@
 ![Shasanksuman2412's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shasanksuman2412&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shasanksuman2412&theme=vision_friendly_dark)
-
-</div>
-
-<div align="center">
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=merko&animation=default&layout=default&font=PixelifySans&quoteType=random&fontColor=1f6feb&borderColor=1f6feb)
 
 </div>
 
