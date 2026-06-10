@@ -20,21 +20,11 @@
 
 - 🧩 Always looking to write cleaner code, build better architectures, and learn from every PR.
 
-- 📬 Reach out: **shasanksuman2412@gmail.com** — let's talk tech, projects, or just geek out!
+- 📬 Reach out: **shasanksuman284@gmail.com** — let's talk tech, projects, or just geek out!
 
 - ⚡ Fun fact: I don't just build apps — I build *experiences*. If it's not smooth, it's not done!
 
 <hr>
-
-<h3 align="center"> 🔗 Connect with me </h3>
-<p align="center">
-  <a href="https://linkedin.com/in/shasanksuman2412" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Shasanksuman2412" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
 
 <hr>
 
@@ -78,10 +68,10 @@
 
 | 🚀 Project | 📝 Description | 🛠️ Stack |
 |---|---|---|
-| [Student Portal](https://github.com/Shasanksuman2412/Summer-Trainning-Project-) | Web-based portal for assignments, submissions & grade tracking | HTML, CSS, JS |
-| [Event Booking Portal](https://github.com/Shasanksuman2412/A-React-based-event-booking-portal-) | React app for exploring events, booking seats & managing reservations | React |
-| [Full Stack Project](https://github.com/Shasanksuman2412/Full-Stack-project-) | End-to-end full stack web application | JavaScript |
-| [Blog Website](https://github.com/Shasanksuman2412/BLOG-WEBSITE) | A fully functional blog platform | HTML/CSS/JS |
+| [Downloader Utility](https://github.com/Shasanksuman2412/downloader-) | A simple Python CLI utility that downloads a file using aria2, streams live download logs, and then either extracts the file (if ZIP) or copies it to an output directory. | PYTHON |
+| [MuuzHub](https://github.com/Shasanksuman2412/muuzhub) | MuuzHub is a collaborative room-based music queue app | TS |
+| [Summer Training Project](https://github.com/Shasanksuman2412/Summer-Trainning-Project-) | A responsive, role-based web portal where students and teachers can interact through assignments, notifications, and grading.  | JS |
+| [habit Breaker](https://github.com/Shasanksuman2412/habit-breaker) | Real-time computer vision app that detects when a hand moves near the mouth and gives an on-screen alert.  | PYTHON |
 
 </div>
 
